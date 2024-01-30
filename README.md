@@ -13,19 +13,19 @@ To tackle this problem, I've established a SMART framework, where these five ele
 5. Time-Bound  : Achieve a 20% increase in deposit subscribers within 6 months.
 
 
-### The project comprises two files:
+#### The project comprises two files:
 
-Banking_Dataset.csv: The raw data source in CSV format.
-fixdata.csv: Cleaned data, including modifications to columns and removal of unused columns based on domain knowledge.
-h8dsft_Milestone1_taara: A Jupyter notebook script containing data loading, data cleaning, analysis, and calculations (including descriptive and inferential statistics, as well as data visualization), and conclusion (including concise and clear conclusions, recommendations, or answers to the problem, along with summarizing the key insights from the analysis and calculations).
+- Banking_Dataset.csv: The raw data source in CSV format.
+- fixdata.csv: Cleaned data, including modifications to columns and removal of unused columns based on domain knowledge.
+- h8dsft_Milestone1_taara: A Jupyter notebook script containing data loading, data cleaning, analysis, and calculations (including descriptive and inferential statistics, as well as data visualization), and conclusion (including concise and clear conclusions, recommendations, or answers to the problem, along with summarizing the key insights from the analysis and calculations).
 
-### Advantages:
+#### Advantages:
 
 1. Provides insights into customer behavior and preferences.
 2. Helps optimize marketing strategies to increase deposit subscriptions.
 3. Enhances the bank's competitive edge in the industry.
 
-### Disadvantages:
+#### Disadvantages:
 
 1. Dependency on the quality and availability of data.
 2. Implementation may require collaboration across departments within the bank.
