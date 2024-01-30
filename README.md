@@ -6,15 +6,11 @@ To achieve this project's goal, it's essential to address the following problem:
 
 To tackle this problem, I've established a SMART framework, where these five elements are crucial in clarifying the project's ultimate vision:
 
-Specific    : Improve the success of banking deposit marketing campaigns by identifying factors influencing customer decisions to subscribe to deposits.
-
-Measurable  : Increase the number of deposit subscribers by 20%.
-
-Achievable  : Identify factors influencing customer decisions to subscribe to deposits.
-
-Relevant    : Increasing the number of deposit subscribers is useful for enhancing the bank's image amidst the increasingly competitive banking industry.
-
-Time-Bound  : Achieve a 20% increase in deposit subscribers within 6 months.
+1. Specific    : Improve the success of banking deposit marketing campaigns by identifying factors influencing customer decisions to subscribe to deposits.
+2. Measurable  : Increase the number of deposit subscribers by 20%.
+3. Achievable  : Identify factors influencing customer decisions to subscribe to deposits.
+4. Relevant    : Increasing the number of deposit subscribers is useful for enhancing the bank's image amidst the increasingly competitive banking industry.
+5. Time-Bound  : Achieve a 20% increase in deposit subscribers within 6 months.
 
 
 ### The project comprises two files:
